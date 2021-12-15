@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crud-api-mssql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programatically/nodejs-crud-api-mssql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programatically/nodejs-crud-api-mssql/issues"
+  },
+  "homepage": "https://github.com/Programatically/nodejs-crud-api-mssql#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "mssql": "^7.3.0"
+  }
+}
